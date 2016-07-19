@@ -55,9 +55,9 @@ var __ISLANDS__ = {
 };
 
 var __INITIAL_WORDS__ = {
-  'A': 'kitiri',
-  'B': 'savoni',
-  'C': 'fidogge',
+  'A': 'a',
+  'B': 'a',
+  'C': 'a',
 };
 
 var __GATES__ = {
